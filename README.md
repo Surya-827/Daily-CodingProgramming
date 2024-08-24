@@ -20,4 +20,5 @@ Solutions to Daily Coding Problem questions in Python
 - [Dropbox](Dropbox)
 - [Bloomberg](Bloomberg)
 - [Salesforce](Salesforce)
+- [Turing](Turing)
 - [Others](Others)
